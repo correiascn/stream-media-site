@@ -1,0 +1,6 @@
+.i(action="post_result.php",text="Stream:",name="stream",value="",text="Text:",name="post_text",value="")
+.b(name="view_posts",link="view.php",value="View Posts")
+.b(name="add_author",link="addauthor.php",value="Add Author")
+.b(name="remove_author",link="removeauthor.php",value="Remove Author")
+.d()
+.l(text="Alternatively, you can sign in with a different username.",link="index.php")

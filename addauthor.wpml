@@ -1,0 +1,7 @@
+.i(action="addauthor_result.php",text="Stream List:",name="stream_list",value="")
+.t(text="For a list of streams, please separate streams by commas (,). Do not use any spaces.")
+.b(name="view_posts",link="view.php",value="View Posts")
+.b(name="make_post",link="post.php",value="Make Post")
+.b(name="remove_author",link="removeauthor.php",value="Remove Author")
+.d()
+.l(text="Alternatively, you can sign in with a different username.",link="index.php")

@@ -1,0 +1,3 @@
+.t(text="Please enter your username. If you are not registered, enter your desired username and proceed.")
+.i(action="options.php",text="Username:",name="username",value="")
+.d()
